@@ -10,7 +10,7 @@ let gameActiveModern = true;
 // Variabel Typing Text
 let typingTimeout; 
 const texts = {
-  home: "🎮 Main Tic Tac Toe vs Eula - Kamu punya peluang menang 20%! Langsung gas main yuk! 🚀",
+  home: "Halo Selamat datang Di Website Eula Ai hehe",
   game: "🎯 Tantang Eula di Tic Tac Toe! Klik kotak untuk mulai main! 🎮",
   audio: "🎵 Putar musik favoritmu sambil eksplorasi fitur Eula AI! 🎶",
   whatsapp: "💬 Hubungi Eula langsung via WhatsApp Bot! Kirim pesan sekarang! 📱",
